@@ -20,10 +20,10 @@ Your BMI is: 22.857142857142858
 You have a normal weight.
 
 ## 📌 BMI Range Categories in the Program:
-Less than 18.5:	Underweight
-18.5 – 24.9:	Normal weight
-25 – 29.9:	Overweight
-30 or higher:	Obese
+Less than 18.5:	Underweight <br>
+18.5 – 24.9:	Normal weight<br>
+25 – 29.9:	Overweight<br>
+30 or higher:	Obese<br>
 
 ## 📌 Features:
 1. Accepts user input for weight and height
