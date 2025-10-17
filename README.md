@@ -8,10 +8,15 @@ The program takes the user's weight (in kilograms) and height (in meters), calcu
 1. Make sure you have **Python 3** installed on your computer.
 
 2. Download or clone this repository.
+``` bash
+git clone https://github.com/syedahirafatima/bmi-calculator
+cd bmi-calculator
+```
 
-3. Open a terminal or command prompt in the project folder.
-
-4. Run python bmi_calculator.py
+3. Open a terminal or command prompt in the project folder and run
+``` bash
+python bmi_calculator.py
+```
 
 ## 📌 Example input/output:
 Enter your weight in kilograms: 70  
